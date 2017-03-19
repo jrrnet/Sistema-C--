@@ -1,4 +1,4 @@
-[![JRWIKI](http://jrwiki.info/wp-content/uploads/2015/04/logo.png)] (http://jrwiki.info)
+[![JRWIKI](http://jrwiki.pe.hu/wp-content/uploads/2016/05/logo.png)] (http://jrwiki.pe.hu)
 
 # Sistema Venda de Pizza
 - Sistema de uma Pizzaria em C#, trabalho do curso de ADS
@@ -6,7 +6,7 @@
 Descrição
 ---------
 
-Foi desenvolvido uma aplicação usando o Visual Studio a linguagem utilizada foi o C# e banco de dados foi o Access com base no levantamento realizado pelo analista de sistemas, foi possível identificar que a pizzaria necessitará dos seguintes controles:
+Foi desenvolvido uma aplicação usando o Visual Studio a linguagem utilizada foi o C# padrão estruturado o banco de dados utilizado foi o Access com base no levantamento realizado pelo analista de sistemas, foi possível identificar que a pizzaria necessitará dos seguintes controles:
 
 Controle de Cliente:
 -------------------
@@ -23,8 +23,3 @@ Neste caso os produtos são as pizzas a serem vendidas, sendo necessária a incl
 Controle de Pedido:
 -------------------
 Para gerenciar os pedidos realizados pelo cliente, o atendente deverá informar no registro do pedido: nome do cliente, nome do produto, quantidade, tamanho etc. O pedido pode conter várias pizzas, porém, cada pizza apenas um sabor.
-
-
-
-
-
